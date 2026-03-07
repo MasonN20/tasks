@@ -23,7 +23,7 @@ function App(): React.JSX.Element {
                 <p>Edited by Mason Nichols</p>
             </header>
             <hr></hr>
-            {/* <DoubleHalf></DoubleHalf> */}
+            <DoubleHalf></DoubleHalf>
             <hr></hr>
             <ChooseTeam></ChooseTeam>
             <hr></hr>
